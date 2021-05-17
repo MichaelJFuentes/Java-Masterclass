@@ -1,0 +1,37 @@
+
+<accounts>
+    <account>
+        <accountNumber>100</accountNumber>
+        <firstName>Bob</firstName>
+        <lastName>Blue</lastName>
+        <accountBalance>24.98</accountBalance>
+    </account>
+
+    <account>
+        <accountNumber>200</accountNumber>
+        <firstName>Steve</firstName>
+        <lastName>Green</lastName>
+        <accountBalance>-345.67</accountBalance>
+    </account>
+
+    <account>
+        <accountNumber>300</accountNumber>
+        <firstName>Pam</firstName>
+        <lastName>White</lastName>
+        <accountBalance>0</accountBalance>
+    </account>
+
+    <account>
+        <accountNumber>400</accountNumber>
+        <firstName>Sam</firstName>
+        <lastName>Red</lastName>
+        <accountBalance>-42.16</accountBalance>
+    </account>
+
+    <account>
+        <accountNumber>500</accountNumber>
+        <firstName>Sue</firstName>
+        <lastName>Yellow</lastName>
+        <accountBalance>224.62</accountBalance>
+    </account>
+</accounts>
